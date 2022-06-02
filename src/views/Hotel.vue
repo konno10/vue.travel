@@ -2,6 +2,8 @@
   <diV>
     <pre>{{hotels.pagingInfo}}</pre>
     <hr>
+
+    
     <ul v-if="hotels.pagingInfo" class="pages">
       <li @click="getData(hotels.pagingInfo.page - 1)">＜</li>
       <li v-if="(hotels.pagingInfo.page > 4)">...</li>
