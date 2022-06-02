@@ -1024,6 +1024,11 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@mdi/font@^6.7.96":
+  "integrity" "sha512-M68vlRhtmA/SpDjo2dV3SUZus20jrU9Zp2ggslfzh0cbFpygPukcVpBIA3pErwsukhYt4RfbgXpFi74SjixOrQ=="
+  "resolved" "https://registry.npmjs.org/@mdi/font/-/font-6.7.96.tgz"
+  "version" "6.7.96"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   "integrity" "sha512-bPHp6Ji8b41szTOcaP63VlnbbO5Ny6dwAATtY6JTjh5N2OLrb5Qk/Th5cRkRQhkWCt+EJsYrNB0MiL+Gpn6e3g=="
   "resolved" "https://registry.npmmirror.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz"
@@ -8508,10 +8513,15 @@
   "resolved" "https://registry.npmmirror.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz"
   "version" "1.9.1"
 
-"vue@^2 || ^3.0.0-0", "vue@^2.6.11":
+"vue@^2 || ^3.0.0-0", "vue@^2.6.11", "vue@^2.6.4":
   "integrity" "sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ=="
   "resolved" "https://registry.npmmirror.com/vue/-/vue-2.6.14.tgz"
   "version" "2.6.14"
+
+"vuetify@^2.6.6":
+  "integrity" "sha512-H4KtxDFmDN8QiTRiGfBySyjMhVaHAJTKB0llGGKZT5jKxtnx9gvEtMWXKtVuRP0NJJP0H6xBPJHNOH7nT18qiQ=="
+  "resolved" "https://registry.npmjs.org/vuetify/-/vuetify-2.6.6.tgz"
+  "version" "2.6.6"
 
 "watchpack-chokidar2@^2.0.1":
   "integrity" "sha512-nCFfBIPKr5Sh61s4LPpy1Wtfi0HE8isJ3d2Yb5/Ppw2P2B/3eVSEBjKfN0fmHJSK14+31KwMKmcrzs2GM4P0Ww=="
